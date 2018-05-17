@@ -29,6 +29,7 @@ object MyLogisticRegression {
       LabeledPoint(arrayDouble(2),features)
     })
 
+    
     val numIterations = 1000
     val alpha = .01
     val lambda = .01
